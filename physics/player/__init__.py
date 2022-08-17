@@ -1,0 +1,2 @@
+from .player_physic_component import PlayerPhysicComponent
+from .collisions import PlayerCollisionComponent
